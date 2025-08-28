@@ -11,7 +11,7 @@ This repository contains a **Power BI Sales Performance Dashboard** that provide
 
 
 ## 📷 Dashboard Preview
-Pdf and 
+Pdf and pbix file available
 
 ## 🔧 Tools Used
 - **Power BI Desktop**
